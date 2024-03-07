@@ -7,6 +7,7 @@ int function(int x){
 	 x=function(x);
 	return x;
 }
+//err
 
 int main(){
 	int a=30, i=0;
